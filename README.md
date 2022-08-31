@@ -1,4 +1,4 @@
-# 5-stage-pipelined-RISC-processor
+# 5-stage-pipelined-RISC-processor - MAVEN SILICON MINI PROJECT
 Implemented a 5 stage pipelined RISC processor in Verilog HDL  using Xilinx Vivado tool alongs with hazard units(i.e forwarding and stall unit) which resolves data hazards and it supports R- type , I-tppe , J- type instructions.
 
 Abhishek Raj
